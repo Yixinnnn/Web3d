@@ -15,7 +15,8 @@
    No media query since this is the default in Bootstrap
 */
 body {
-    background-color: rgb(245, 164, 98);
+    background-color: rgba(182, 231, 243, 1.0);
+
 }
 
 .main_contents {
@@ -290,6 +291,10 @@ There is plenty more styling to do than indicated here, in mobile it still defau
     padding-right: 1.0rem;
 }
 
+#gallery .img-narrow{
+    padding: 0;
+}
+
 .img-thumbnail {
     padding: 0.25rem;
     margin-top: 5px;
@@ -371,7 +376,9 @@ X3D, x3d {
     body {
         background-color: rgb(202, 181, 181);
     }
-
+    #gallery img{
+        width: 100px;
+    }
     #main_3d_image {
         background-image: url(../assets/images/main_3D_768.jpg);
         background-repeat: no-repeat;
@@ -452,6 +459,11 @@ X3D, x3d {
     body {
         background-color: rgb(218, 216, 148);
     }
+
+    #gallery img{
+        width: 150px;
+    }
+    
 
     #main_3d_image {
         background-image: url(../assets/images/main_3D_970.jpg);
@@ -592,7 +604,8 @@ X3D, x3d {
 @media (min-width: 992px) { 
     
     body {
-        background-color: rgb(185, 185, 178);
+        /* background-color: rgb(185, 185, 178); */
+        background-color: rgba(182, 231, 243, 1.0);
     }
 
     #main_3d_image {
@@ -623,7 +636,7 @@ X3D, x3d {
     .card {
         margin-top: 10px;
         margin-bottom: 10px;
-        background-color: rgb(185, 185, 178);
+        background-color: rgba(182, 231, 243, 1.0);
     }
 
     .logo {
@@ -671,7 +684,7 @@ X3D, x3d {
     }
 
     .navbar_coca_cola {
-        background-color: grey; 
+        background-color: rgba(182, 231, 243, 1.0);
         min-height: 120px;
     }
 
@@ -710,6 +723,7 @@ X3D, x3d {
 @media (min-width: 1200px) { 
     #main_3d_image {
         background-image: url(../assets/images/main_3D_2048.jpg);
+        background-position: center;
         background-repeat: no-repeat;
         height: 700px;
     }
