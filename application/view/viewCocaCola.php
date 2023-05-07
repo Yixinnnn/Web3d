@@ -128,7 +128,18 @@
           </div>  <!-- End home page contents-->
           
           <div id="about" style="display:none;">
-              Insert About Contents
+              <h2>GitHub Link</h2>
+              <p><a href="https://github.com/Yixinnnn/Web3d">https://github.com/Yixinnnn/Web3d</a> </p>
+              <h2>X3D models links</h2>
+              <p>Costa: <a href="https://github.com/Yixinnnn/Web3d/blob/master/application/assets/x3d/costa.x3d">https://github.com/Yixinnnn/Web3d/blob/master/application/assets/x3d/costa.x3d</a>  </p>
+              <p>Sprite: <a href="https://github.com/Yixinnnn/Web3d/blob/master/application/assets/x3d/sprite.x3d">https://github.com/Yixinnnn/Web3d/blob/master/application/assets/x3d/sprite.x3d</a> </p>
+              <p>Coca Cola: <a href="https://github.com/Yixinnnn/Web3d/blob/master/application/assets/x3d/coca.x3d">https://github.com/Yixinnnn/Web3d/blob/master/application/assets/x3d/coca.x3d</a></p>
+              <h2>Blender models link</h2>
+              <p>Costa: <a href="https://github.com/Yixinnnn/Web3d/blob/master/application/assets/blender_models/costa.blend">https://github.com/Yixinnnn/Web3d/blob/master/application/assets/blender_models/costa.blend</a></p>
+              <p>Sprite: <a href="https://github.com/Yixinnnn/Web3d/blob/master/application/assets/blender_models/sprite.blend">https://github.com/Yixinnnn/Web3d/blob/master/application/assets/blender_models/sprite.blend</a></p>
+              <p>Coca Cola: <a href="https://github.com/Yixinnnn/Web3d/blob/master/application/assets/blender_models/coca.blend">https://github.com/Yixinnnn/Web3d/blob/master/application/assets/blender_models/coca.blend</a></p>
+
+            
           </div>  
 
           <!-- This is the content for X3D models and 3D Image Gallery -->
@@ -384,7 +395,9 @@
                 
                 <!-- Modal body -->
                 <div class="modal-body">
-                  <p>Dr Martin White, Chichester 1, 126, Email: m.white@sussex.ac.uk</p>
+                  <p>Student yw483</p>
+                  <p>Email: yw483@sussex.ac.uk</p>
+                  <p>GitHub archive Link: <a href="https://github.com/Yixinnnn/Web3d">https://github.com/Yixinnnn/Web3d </a> </p>
                 </div>
                 
                 <!-- Modal footer -->
